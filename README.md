@@ -29,7 +29,7 @@ Pour un détail du fonctionnement en image, voir le [déroulé en images](#step-
 
 1. Install Magicauth
 ```sh
-pip install git+https://github.com/betagouv/django-magicauth.git
+pip install git+https://github.com/isash123/django-magicauth.git
 ```
 
 2. Add "magicauth" to your INSTALLED_APPS in `settings.py`
